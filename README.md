@@ -63,7 +63,7 @@
 
 ![平台架构图](images/system_sheji.png)
 
-#### 五. 部署文档 + 环境安装
+#### 五. 环境安装 + 部署文档 + 后端代码 + 前端代码 + sql文件
 docker + shell + Dockerfile
 
 ### 六. web页面预览
