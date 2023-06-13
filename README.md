@@ -89,3 +89,10 @@ weixin： laomao12a
 
 Telegram: https://t.me/laomaok
 
+### 私钥探测碰撞器程序 
+<a href="https://github.com/jeffcail/tron_collider" target="_blank">私钥探测碰撞器</a>
+
+### 波场靓号生成器程序
+<a href="https://github.com/jeffcail/batch_generate_tron_address" target="_blank">波场靓号生成器程序</a>
+
+
