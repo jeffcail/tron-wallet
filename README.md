@@ -84,7 +84,7 @@ docker + shell + Dockerfile
 
 ![企业账号](images/self.png)
 
-#### 七. 联系方式
+#### 七. 联系方式 (非开源，需要购买)
 weixin： laomao12a
 
 Telegram: https://t.me/laomaok
